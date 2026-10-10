@@ -1,9 +1,10 @@
 env
-.env
 __pycache__
+bot.log
+bot.pid
+branch_structure.json
 temp_auto_push.bat
 temp_interactive_push.bat
 .gitignore
-branch_structure.json
-bot.log
-bot.pid
+config.bat
+node_modules
